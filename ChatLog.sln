@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35027.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ChatLog", "ChatLog\ChatLog.vcxproj", "{3EF10DF6-5852-4AA7-89AC-CC37E0386E2A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3EF10DF6-5852-4AA7-89AC-CC37E0386E2A}.Debug|x64.ActiveCfg = Debug|x64
+		{3EF10DF6-5852-4AA7-89AC-CC37E0386E2A}.Debug|x64.Build.0 = Debug|x64
+		{3EF10DF6-5852-4AA7-89AC-CC37E0386E2A}.Debug|x86.ActiveCfg = Debug|Win32
+		{3EF10DF6-5852-4AA7-89AC-CC37E0386E2A}.Debug|x86.Build.0 = Debug|Win32
+		{3EF10DF6-5852-4AA7-89AC-CC37E0386E2A}.Release|x64.ActiveCfg = Release|x64
+		{3EF10DF6-5852-4AA7-89AC-CC37E0386E2A}.Release|x64.Build.0 = Release|x64
+		{3EF10DF6-5852-4AA7-89AC-CC37E0386E2A}.Release|x86.ActiveCfg = Release|Win32
+		{3EF10DF6-5852-4AA7-89AC-CC37E0386E2A}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B6466016-6B1F-42A2-A148-999BE3C3ED84}
+	EndGlobalSection
+EndGlobal
